@@ -1,5 +1,5 @@
 # shaba-seo
-
+This is just a project to migrate shaba-seo from basic html and css into using nuxt to build the project from scratch.
 ## Build Setup
 
 ```bash
